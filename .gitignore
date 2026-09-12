@@ -26,3 +26,5 @@ ponytail-*.gif
 benchmarks/agentic/runs/
 *.exe
 # === auto: large files (>5MB) ===
+
+# === commit-push-to-github large files (auto) ===
