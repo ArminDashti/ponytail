@@ -6,10 +6,9 @@ alwaysApply: true
 metadata:
   version: 1.0.0
   author: "Armin Dashti"
-  category: 
   tags: []
   last_updated: "2026-09-10 12:50:20"
-  uuid: 64d0a5c1-a638-42d1-aafb-1da90155238c
+  uuid: 9223f4ac-4b81-43cf-a87b-4f85b1caec47
 ---
 # Ponytail, lazy senior dev mode
 
