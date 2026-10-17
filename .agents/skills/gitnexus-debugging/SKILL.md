@@ -1,8 +1,14 @@
 ---
 name: gitnexus-debugging
-description: "Use when the user is debugging a bug, tracing an error, or asking why something fails. Examples: \"Why is X failing?\", \"Where does this error come from?\", \"Trace this bug\""
+description: >-
+  Use when the user is debugging a bug, tracing an error, or asking why something fails. Examples: \"Why is X failing?\", \"Where does this error come from?\", \"Trace this bug\"
+metadata:
+  version: 1.0.0
+  author: "Armin Dashti"
+  tags: []
+  last_updated: "2026-10-17 08:49:04"
+  uuid: 54b67f1a-c91f-4d64-aad2-985a75fbc7c5
 ---
-
 # Debugging with GitNexus
 
 ## When to Use

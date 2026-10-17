@@ -1,8 +1,14 @@
 ---
 name: gitnexus-exploring
-description: "Use when the user asks how code works, wants to understand architecture, trace execution flows, or explore unfamiliar parts of the codebase. Examples: \"How does X work?\", \"What calls this function?\", \"Show me the auth flow\""
+description: >-
+  Use when the user asks how code works, wants to understand architecture, trace execution flows, or explore unfamiliar parts of the codebase. Examples: \"How does X work?\", \"What calls this function?\", \"Show me the auth flow\"
+metadata:
+  version: 1.0.0
+  author: "Armin Dashti"
+  tags: []
+  last_updated: "2026-10-17 08:49:04"
+  uuid: a267b5c2-ec87-4efd-b952-a98915141dc5
 ---
-
 # Exploring Codebases with GitNexus
 
 ## When to Use
